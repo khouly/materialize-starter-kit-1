@@ -1,0 +1,23 @@
+{
+  "name": "mostafaelkhouly",
+  "description": "Mostafa ElKhouly website.",
+  "main": "index.js",
+  "authors": [
+    "Mostafa ElKhouly"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "normalize-css": "normalize.css#^5.0.0",
+    "jquery": "^3.2.1",
+    "materialize": "^0.98.1"
+  }
+}

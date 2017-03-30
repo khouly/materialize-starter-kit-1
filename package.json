@@ -1,0 +1,36 @@
+{
+  "name": "mostafaelkhouly",
+  "version": "1.0.0",
+  "description": "Mostafa ElKhouly website.",
+  "main": "index.js",
+  "dependencies": {
+    "grunt": "^1.0.1"
+  },
+  "devDependencies": {
+    "grunt-bower": "^0.21.4",
+    "grunt-browser-sync": "^2.2.0",
+    "grunt-contrib-clean": "^1.0.0",
+    "grunt-contrib-concat": "^1.0.1",
+    "grunt-contrib-copy": "^1.0.0",
+    "grunt-contrib-imagemin": "^1.0.1",
+    "grunt-contrib-jshint": "^1.1.0",
+    "grunt-contrib-pug": "^1.0.0",
+    "grunt-contrib-uglify": "^2.2.0",
+    "grunt-contrib-watch": "^1.0.0",
+    "grunt-sass": "^2.0.0",
+    "jshint-stylish": "^2.2.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/khouly/mostafaelkhouly.git"
+  },
+  "author": "Mostafa ElKhouly",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/khouly/mostafaelkhouly/issues"
+  },
+  "homepage": "https://github.com/khouly/mostafaelkhouly#readme"
+}
