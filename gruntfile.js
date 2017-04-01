@@ -5,7 +5,7 @@ module.exports = function(grunt) {
         //reusable paths
         paths: {
             app: 'app',
-            dist: 'gh-pages',
+            dist: 'docs',
             app_css: '<%= paths.app %>/css',
             app_js: '<%= paths.app %>/js',
             app_img: '<%= paths.app %>/images',
